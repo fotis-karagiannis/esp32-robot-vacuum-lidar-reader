@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Build output
+build/
+.pio/
+
+# Compiled firmware
+*.bin
+*.elf
+*.hex
+*.map
+
+# Temporary files
+*.log
+*.tmp
